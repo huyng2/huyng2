@@ -1,7 +1,7 @@
 ### Hi there 👋
 I am currently pursuing a Master in Science, in Applied Quantitative Economics and Analysis at Pace University. For my undergraduate capstone project, I conducted research on the correlation between Bitcoin and conventional investment assets (S&P 500, gold, the US dollar) under the influence of a negative shock. Under flights to safe theory, investors reallocate their capital from risky asset to safer asset in time of extreme market uncertainty in order to hedge risk. The result suggested Bitcoin is currently behaving more similar to a risky speculative investment asset rather than a safe hideout during market turmoils. Using my code for this project, one can replace (or add) other invesment assets as they preferred.
 
-In this repository, you will find my research paper ( Nguyen_Huy_Paper.pdf) in which I included in-depth argumennts, more citations, and suggest trading strategies based on risk tolerance. 
+In this repository, you will find my research paper ( Nguyen_Huy_Paper.pdf) in which I included in-depth arguments, more citations, and suggest trading strategies based on risk tolerance. 
 
 Beside from my paper, I will provide my up-to-date python code to automate the data collecting and transforming process. The code is still undergoing, but anyone can based on this and conduct their own research. I believe sharing knowledge freely is a contribution to the collective human knowledge. 
 
