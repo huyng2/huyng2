@@ -1,10 +1,6 @@
-### Hi there 👋
-I am currently pursuing a Master in Science, in Applied Quantitative Economics and Analysis at Pace University. For my undergraduate capstone project, I conducted research on the correlation between Bitcoin and conventional investment assets (S&P 500, gold, the US dollar) under the influence of a negative shock. Under flights to safe theory, investors reallocate their capital from risky asset to safer asset in time of extreme market uncertainty in order to hedge risk. The result suggested Bitcoin is currently behaving more similar to a risky speculative investment asset rather than a safe hideout during market turmoils. Using my code for this project, one can replace (or add) other invesment assets as they preferred.
+### Introductionn
+Huy Nguyen’s interests lie at the intersection of global finance, economic policy, and international trade, with a particular focus on emerging markets and digital assets. Proficient in Excel, Python, R, and Tableau, he develops custom algorithms and data visualization techniques to get insights from large-scale datasets. This robust quantitative approach allows him to bridge theoretical concepts with empirical evidence, delivering timely and actionable investment decisions.
 
-In this repository, you will find my research paper ( Nguyen_Huy_Paper.pdf) in which I included in-depth arguments, more citations, and suggest trading strategies based on risk tolerance. 
-
-Beside from my paper, I will provide my up-to-date python code to automate the data collecting and transforming process. The code is still undergoing, but anyone can based on this and conduct their own research. I believe sharing knowledge freely is a contribution to the collective human knowledge. 
-
-Tableau's story (bitcoin_story.pdf) provides visuallizations of the current health of the bitcoin market compare to 2017. The bull run in 2020-2021 is fundamentally different from 2017-2018. Number of bitcoin owners are less sensitive to to drop in price, rather they increase at a slower rate during bear market. As Bitcoin matures as an asset, the digital token becomes less volatile, but also less rewarding. And we observe institutional investment into the potential of Bitcoin. 
+Huy Nguyen recently graduated from Pace University with a M.S in Quantitative Economic Analysis and Policy (4.0/4.0 GPA), a B.B.A in Finance, a B.S in Business Economics (dual Summa Cum Laude), and a minor in Business Analyst. He was in the Honors College, a member of Dyson’s Society of Fellows, and president of Beta Gamma Sigma Honors Society 2022-23. Huy is currently pursuing his second master in Finance at Harvard Extension School.
 
 My linkedin: https://www.linkedin.com/in/huy-nguyen-2022/
